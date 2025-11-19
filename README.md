@@ -14,7 +14,7 @@ I'm a Software Engineering student at ITMO University. I love building real proj
 - **Frontend**: Building interfaces with HTML, CSS, JavaScript
 
 <p align="center">
-  <a href="https://t.me/sDenissss"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/Underfnd"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
@@ -169,20 +169,20 @@ I'm a Software Engineering student at ITMO University. I love building real proj
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sDenisss&show_icons=true&theme=gotham" width="395px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Underfnd&show_icons=true&theme=gotham" width="395px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sDenisss&layout=compact&theme=gotham" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Underfnd&layout=compact&theme=gotham" />
       </td>
     </tr>
   </table>
 </div>
 
 
-<a href="https://github.com/sDenisss/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/Underfnd/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <div style="display: flex; align-items: center; gap: 20px;">
-  <a href="https://github.com/sDenisss/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=sDenisss&theme=matrix"/>
+  <a href="https://github.com/Underfnd/github-profile-trophy">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=Underfnd&theme=matrix"/>
   </a>
   <!-- <img src="Icons/hacker-cat.gif" height="92"/> -->
 </div>
